@@ -9,7 +9,7 @@ import LoadingModal from './components/LoadingModal';
 import Leaderboard from './components/Leaderboard';
 import useToast from './hooks/useToast';
 
-const WS_URL = (import.meta.env.VITE_WS_URL || 'ws://localhost:8080');
+const WS_URL = (import.meta.env.VITE_WS_URL || 'wss://connect-4-zacn.onrender.com');
 
 export default function App() {
   const wsRef = useRef(null);
