@@ -72,13 +72,23 @@ export default function App() {
     } else if (msg.type === 'game_state') {
       setGameState(msg);
       if (msg.status === 'finished') {
-        setWinnerInfo({
+        const winnerInfo = {
           name: msg.winnerName || (msg.winner === 'draw' ? 'Draw' : `Player ${msg.winner}`),
           isBot: !!(msg.players && (msg.players[1] === 'BOT' || msg.players[2] === 'BOT') || msg.opponentIsBot),
           result: msg.winner === 'draw' ? 'draw' : 'win'
-        });
-        setWinnerModalOpen(true);
-        setStatus('idle');
+        };
+        setWinnerInfo(winnerInfo);
+        
+        if (msg.winner !== 'draw') {
+          // Show winning animation and modal quicker
+          setTimeout(() => {
+            setWinnerModalOpen(true);
+            setStatus('idle');
+          }, 800); // Reduced delay to make it feel more responsive
+        } else {
+          setWinnerModalOpen(true);
+          setStatus('idle');
+        }
       }
     } else if (msg.type === 'rematch_result') {
       setLoadingModalOpen(false);
@@ -280,9 +290,12 @@ export default function App() {
         onRematch={handleRematch}
         onNewMatch={(openModal) => handleNewMatch(openModal)}
         onClose={() => {
-          setWinnerModalOpen(false);
-          setShowLanding(true);
-          setGameState(null);
+          // Delay clearing the game state to keep winning cells visible
+          setTimeout(() => {
+            setWinnerModalOpen(false);
+            setShowLanding(true);
+            setGameState(null);
+          }, 500);
         }}
       />
 

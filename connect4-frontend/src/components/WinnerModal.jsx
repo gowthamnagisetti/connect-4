@@ -15,32 +15,47 @@ export default function WinnerModal({
   const [showConfetti, setShowConfetti] = useState(false);
 
   useEffect(() => {
-    if (!open) { setShowConfetti(false); return; }
-    setCount(10);
+    if (!open) { 
+      setShowConfetti(false); 
+      return; 
+    }
+    
     if (result === 'win') {
-      setShowConfetti(true);
-      playPopSequence();
-      // dispatch a DOM event so board can highlight connected discs and show crackers
+      // First trigger the winning animation
       try {
         const ev = new CustomEvent('connect4:winner', { detail: { winnerName, result, timestamp: Date.now() } });
         window.dispatchEvent(ev);
       } catch (e) {}
+
+      // Show modal after a short delay
+      setTimeout(() => {
+        setShowConfetti(true);
+        playPopSequence();
+        startCountdown();
+      }, 1000); // Reduced delay for better flow
     } else {
       setShowConfetti(false);
+      startCountdown();
     }
-    const t = setInterval(() => {
-      setCount(c => {
-        if (c <= 1) {
-          clearInterval(t);
-          onClose();
-          setShowConfetti(false);
-          return 0;
-        }
-        return c - 1;
-      });
-    }, 1000);
-    return () => clearInterval(t);
-  }, [open]);
+
+    function startCountdown() {
+      setCount(10);
+      const t = setInterval(() => {
+        setCount(c => {
+          if (c <= 1) {
+            clearInterval(t);
+            onClose();
+            setShowConfetti(false);
+            return 0;
+          }
+          return c - 1;
+        });
+      }, 1000);
+      return () => clearInterval(t);
+    }
+
+    return () => {};
+  }, [open, result, winnerName]);
 
   // short pop sound sequence using WebAudio (no external files)
   function playPopOnce(timeOffset = 0) {

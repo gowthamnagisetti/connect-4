@@ -7,7 +7,11 @@ const COLS = 7;
 
 function isWinningCell(winningCells = [], c, r) {
   if (!Array.isArray(winningCells)) return false;
-  return winningCells.some(w => w.c === c && w.r === r);
+  const isWinning = winningCells.some(w => w.c === c && w.r === r);
+  if (isWinning) {
+    console.log('Found winning cell at:', c, r); // Debug log
+  }
+  return isWinning;
 }
 
 export default function Board({
@@ -26,15 +30,40 @@ export default function Board({
 
   // listen for external winner event to trigger burst/crackers
   useEffect(() => {
-    function onWinner(e) {
-      // use winningCells prop to compute burst targets
-      if (!Array.isArray(winningCells) || winningCells.length === 0) return;
+    if (Array.isArray(winningCells) && winningCells.length > 0) {
+      // Immediately highlight winning cells
       setBurstCells(winningCells.map(w => ({ c: w.c, r: w.r })));
-      // remove after animation
-      setTimeout(() => setBurstCells([]), 1400);
+      // Force re-render to ensure styles are applied
+      setAnimKey(k => k + 1);
     }
-    window.addEventListener('connect4:winner', onWinner);
-    return () => window.removeEventListener('connect4:winner', onWinner);
+  }, [winningCells]);
+
+  // Handle winner animation
+  useEffect(() => {
+    const handleWinner = () => {
+      console.log('Handling winner event, winningCells:', winningCells); // Debug log
+      if (Array.isArray(winningCells) && winningCells.length > 0) {
+        // Set winning cells with normal timing
+        setBurstCells(winningCells.map(w => ({ c: w.c, r: w.r })));
+        
+        // Normal transition timing
+        setTimeout(() => {
+          setAnimKey(k => k + 1);
+        }, 300);
+        
+        // Clear highlight after reasonable time
+        const cleanup = setTimeout(() => {
+          setBurstCells([]);
+        }, 4000);
+        
+        return () => {
+          clearTimeout(cleanup);
+        };
+      }
+    };
+
+    window.addEventListener('connect4:winner', handleWinner);
+    return () => window.removeEventListener('connect4:winner', handleWinner);
   }, [winningCells]);
 
   const rows = useMemo(() => {
@@ -108,6 +137,8 @@ export default function Board({
               const last = isLastMove(c, r);
               const key = `${c}-${r}-${diskPlayer}-${animKey}`;
 
+              const isWin = isWinningCell(winningCells, c, r);
+              console.log(`Cell ${c},${r} - winning: ${isWin}, winningCells:`, winningCells); // Debug
               return (
                 <div
                   key={key}
@@ -119,7 +150,7 @@ export default function Board({
                   onTouchMove={handleTouchMove}
                   onTouchEnd={(ev) => handleTouchEnd(ev, c)}
                   role="button"
-                  aria-label={`col ${c} row ${r}`}
+                  aria-label={`col ${c} row ${r}${isWin ? ' - WINNING CELL' : ''}`}
                 >
                   <div className="cell-hole">
                     <AnimatePresence>

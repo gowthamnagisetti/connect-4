@@ -17,6 +17,7 @@ class Connect4 {
         this.startedAt = null;
         this.endedAt = null;
         this.lastWinningCells = []; // store winning coordinates when win detected
+        this.winningCells = []; // Current winning cells
     }
 
     // safe accessor
@@ -117,7 +118,12 @@ class Connect4 {
             let total = 1;
             total += this.countDirection(col, row, dc, dr, player);
             total += this.countDirection(col, row, -dc, -dr, player);
-            if (total >= 4) return true;
+            if (total >= 4) {
+                // When win is detected, store winning cells
+                this.winningCells = this.getWinningCells(col, row, player);
+                console.log('Win detected! Winning cells:', this.winningCells); // Debug log
+                return true;
+            }
         }
         return false;
     }

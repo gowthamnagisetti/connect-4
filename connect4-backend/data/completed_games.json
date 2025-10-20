@@ -4945,5 +4945,1927 @@
     "endedAt": 1760975809006,
     "durationSeconds": null,
     "reason": "normal"
+  },
+  {
+    "gameId": "e438178d-c13b-41e9-8c60-c5b2c9f8dd40",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [],
+    "startedAt": null,
+    "endedAt": null,
+    "durationSeconds": null,
+    "reason": "forfeit"
+  },
+  {
+    "gameId": "6bda7c29-e9fd-4f23-8a0e-7b8ef173e2e8",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976071646
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976071692
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760976072359
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760976072364
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 2,
+        "moveIndex": 5,
+        "ts": 1760976073308
+      },
+      {
+        "player": 2,
+        "col": 6,
+        "row": 3,
+        "moveIndex": 6,
+        "ts": 1760976073310
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 4,
+        "moveIndex": 7,
+        "ts": 1760976075720
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 8,
+        "ts": 1760976075721
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 9,
+        "ts": 1760976077791
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 10,
+        "ts": 1760976077793
+      }
+    ],
+    "startedAt": 1760976071646,
+    "endedAt": 1760976077793,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "a39b4883-4069-46bf-ac78-c3f0d984b79c",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976136339
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976136345
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760976136690
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760976136692
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 2,
+        "moveIndex": 5,
+        "ts": 1760976137482
+      },
+      {
+        "player": 2,
+        "col": 6,
+        "row": 3,
+        "moveIndex": 6,
+        "ts": 1760976137484
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 4,
+        "moveIndex": 7,
+        "ts": 1760976138504
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 8,
+        "ts": 1760976138507
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 5,
+        "moveIndex": 9,
+        "ts": 1760976140513
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 10,
+        "ts": 1760976140517
+      }
+    ],
+    "startedAt": 1760976136339,
+    "endedAt": 1760976140517,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "4f995295-0e99-43d8-b165-b4146e03bdc6",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976154437
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976154443
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760976156368
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760976156371
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 2,
+        "moveIndex": 5,
+        "ts": 1760976158749
+      },
+      {
+        "player": 2,
+        "col": 6,
+        "row": 3,
+        "moveIndex": 6,
+        "ts": 1760976158751
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 7,
+        "ts": 1760976160470
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 8,
+        "ts": 1760976160473
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 4,
+        "moveIndex": 9,
+        "ts": 1760976162623
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 10,
+        "ts": 1760976162627
+      }
+    ],
+    "startedAt": 1760976154437,
+    "endedAt": 1760976162627,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "a6bb0d4c-117c-402d-b154-2c7da703a48d",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976263755
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976263775
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760976264417
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760976264420
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 5,
+        "ts": 1760976266488
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760976266491
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 2,
+        "moveIndex": 7,
+        "ts": 1760976267740
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760976267742
+      }
+    ],
+    "startedAt": 1760976263755,
+    "endedAt": 1760976267742,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "d7384bd6-4877-4108-a729-5e2dc43f554c",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976282085
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976282093
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760976282616
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760976282619
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 2,
+        "moveIndex": 5,
+        "ts": 1760976283343
+      },
+      {
+        "player": 2,
+        "col": 6,
+        "row": 3,
+        "moveIndex": 6,
+        "ts": 1760976283346
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 4,
+        "moveIndex": 7,
+        "ts": 1760976284165
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 8,
+        "ts": 1760976284167
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 5,
+        "moveIndex": 9,
+        "ts": 1760976284933
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 10,
+        "ts": 1760976284935
+      }
+    ],
+    "startedAt": 1760976282085,
+    "endedAt": 1760976284935,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "517862a3-46c4-41d7-821c-cc1d1c64d142",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 4,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976298783
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976298824
+      },
+      {
+        "player": 1,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760976299649
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 4,
+        "ts": 1760976299652
+      },
+      {
+        "player": 1,
+        "col": 1,
+        "row": 0,
+        "moveIndex": 5,
+        "ts": 1760976301369
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 6,
+        "ts": 1760976301372
+      },
+      {
+        "player": 1,
+        "col": 2,
+        "row": 0,
+        "moveIndex": 7,
+        "ts": 1760976302019
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 4,
+        "moveIndex": 8,
+        "ts": 1760976302021
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 9,
+        "ts": 1760976303303
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 5,
+        "moveIndex": 10,
+        "ts": 1760976303307
+      }
+    ],
+    "startedAt": 1760976298783,
+    "endedAt": 1760976303307,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "9bf16497-7d64-4925-9dad-484387fe9318",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976340287
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976340293
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760976349044
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760976349051
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760976350972
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760976350973
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760976351814
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760976351817
+      }
+    ],
+    "startedAt": 1760976340287,
+    "endedAt": 1760976351817,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "053fa07d-74d7-48ab-912c-c313cf4c7751",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976460203
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976460209
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760976461278
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760976461283
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760976462368
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760976462369
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760976463451
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760976463452
+      }
+    ],
+    "startedAt": 1760976460203,
+    "endedAt": 1760976463453,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "e57b9892-6d24-4e4a-b1d9-5af57b21768a",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 4,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976620232
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976620241
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760976621999
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760976622006
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 5,
+        "ts": 1760976622790
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760976622791
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760976624091
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760976624097
+      }
+    ],
+    "startedAt": 1760976620232,
+    "endedAt": 1760976624097,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "6a17da53-8c21-4af7-97f4-0627f60c36bb",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976739967
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976740129
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760976741623
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760976741626
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760976743527
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760976743542
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760976744564
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760976744567
+      }
+    ],
+    "startedAt": 1760976739967,
+    "endedAt": 1760976744567,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "d640cde6-de87-44e7-9b25-effc2fe8063c",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976813988
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976813994
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760976814860
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760976814867
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760976815554
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760976815558
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760976816448
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760976816450
+      }
+    ],
+    "startedAt": 1760976813987,
+    "endedAt": 1760976816450,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "6c662b20-6c76-4713-837e-619a9c3b48b6",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760976834310
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760976834312
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760976835387
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760976835390
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760976836243
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760976836249
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760976837311
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760976837313
+      }
+    ],
+    "startedAt": 1760976834310,
+    "endedAt": 1760976837313,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "da2c7bd0-760f-42ab-9659-85e90ac982ee",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760977015948
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760977015966
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760977016152
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760977016155
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 5,
+        "ts": 1760977017714
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760977017715
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 2,
+        "moveIndex": 7,
+        "ts": 1760977019253
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760977019256
+      }
+    ],
+    "startedAt": 1760977015948,
+    "endedAt": 1760977019256,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "a18e0de0-d130-47aa-aa2b-7ed6e20ddce2",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760977044692
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760977044698
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760977046118
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760977046121
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 5,
+        "ts": 1760977047561
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760977047563
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760977050181
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760977050182
+      }
+    ],
+    "startedAt": 1760977044692,
+    "endedAt": 1760977050182,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "c87223d9-6fd6-491c-853d-352e35eacb4e",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760977151867
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760977151875
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760977151955
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760977151958
+      }
+    ],
+    "startedAt": 1760977151867,
+    "endedAt": null,
+    "durationSeconds": null,
+    "reason": "forfeit"
+  },
+  {
+    "gameId": "14fda9ab-145a-4c55-813a-b687cd98ef2a",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760977240347
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760977240350
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760977241043
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760977241046
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760977244186
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760977244188
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760977246354
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760977246355
+      }
+    ],
+    "startedAt": 1760977240347,
+    "endedAt": 1760977246355,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "8b004a78-b768-4b37-84f3-890fddfdb637",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760977270274
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760977270279
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760977272688
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760977272691
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 5,
+        "ts": 1760977275071
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760977275073
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760977276577
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760977276578
+      }
+    ],
+    "startedAt": 1760977270274,
+    "endedAt": 1760977276578,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "66afe07d-52ab-493b-8a71-b2209035b73a",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760977416486
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760977416490
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760977417417
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760977417418
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760977418222
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760977418225
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760977418995
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760977418997
+      }
+    ],
+    "startedAt": 1760977416486,
+    "endedAt": 1760977418997,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "06771cc9-e59a-4607-ac29-9596756f8e4b",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760977471645
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760977471652
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760977472376
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760977472379
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760977473172
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760977473175
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760977474765
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760977474768
+      }
+    ],
+    "startedAt": 1760977471645,
+    "endedAt": 1760977474768,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "fd1acbcc-7f20-466e-9268-ddb27936a3a3",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760977525100
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760977525105
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760977526284
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760977526286
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760977527848
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760977527851
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760977528777
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760977528779
+      }
+    ],
+    "startedAt": 1760977525100,
+    "endedAt": 1760977528779,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "20865a35-5f46-4a0e-8a36-ba22cd10d4d8",
+    "players": [
+      "Varshini Mamidala",
+      "Goa"
+    ],
+    "winner": 1,
+    "winnerName": "Varshini Mamidala",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760977572787
+      },
+      {
+        "player": 2,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760977575463
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760977577064
+      },
+      {
+        "player": 2,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760977578472
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 2,
+        "moveIndex": 5,
+        "ts": 1760977580148
+      },
+      {
+        "player": 2,
+        "col": 6,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760977581451
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 3,
+        "moveIndex": 7,
+        "ts": 1760977583462
+      }
+    ],
+    "startedAt": 1760977572787,
+    "endedAt": 1760977583462,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "9f831428-8f3e-4a4a-aa11-deb907fb1956",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760977709989
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760977709996
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760977710795
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760977710799
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760977712425
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760977712428
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760977713976
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760977713978
+      }
+    ],
+    "startedAt": 1760977709989,
+    "endedAt": 1760977713978,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "80d0b3bc-6c2f-474e-8d19-71999c682323",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760977900598
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760977900606
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760977901412
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760977901415
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760977903163
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760977903166
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760977904843
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760977904844
+      }
+    ],
+    "startedAt": 1760977900598,
+    "endedAt": 1760977904844,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "2ca584e7-109d-471f-a4d9-63b0a9ffb256",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760978087280
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760978087290
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760978088313
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760978088322
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760978089136
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760978089144
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760978090079
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760978090083
+      }
+    ],
+    "startedAt": 1760978087280,
+    "endedAt": 1760978090085,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "2de50032-974e-4e8d-89d1-aa32a81907b4",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760978277177
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760978277184
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760978277999
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760978278002
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760978279621
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760978279626
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760978280502
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760978280508
+      }
+    ],
+    "startedAt": 1760978277177,
+    "endedAt": 1760978280509,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "46972842-8c77-4ee2-ac25-4e19c41229f2",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760978342189
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760978342194
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760978342196
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760978342200
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 5,
+        "ts": 1760978343953
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760978343959
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760978343964
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760978343973
+      }
+    ],
+    "startedAt": 1760978342189,
+    "endedAt": 1760978343976,
+    "durationSeconds": null,
+    "reason": "normal"
   }
 ]
