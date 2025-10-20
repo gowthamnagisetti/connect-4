@@ -6867,5 +6867,286 @@
     "endedAt": 1760978343976,
     "durationSeconds": null,
     "reason": "normal"
+  },
+  {
+    "gameId": "ac75794a-6a21-4412-81c5-43ec9d2f5946",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760978582612
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760978582623
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760978583415
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760978583423
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760978583642
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760978583647
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760978585000
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760978585004
+      }
+    ],
+    "startedAt": 1760978582612,
+    "endedAt": 1760978585005,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "ae985b8f-164c-4731-b0f8-db43c75c124e",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760979138173
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760979138182
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760979139910
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760979139914
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760979156406
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760979156410
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760979158624
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760979158629
+      }
+    ],
+    "startedAt": 1760979138173,
+    "endedAt": 1760979158630,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "5dac96d1-3418-4624-879f-fabb14cabaad",
+    "players": [
+      "Gowtham",
+      "Goa"
+    ],
+    "winner": 1,
+    "winnerName": "Gowtham",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760979195371
+      },
+      {
+        "player": 2,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760979197938
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 3,
+        "ts": 1760979200745
+      },
+      {
+        "player": 2,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760979202161
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 2,
+        "moveIndex": 5,
+        "ts": 1760979203989
+      },
+      {
+        "player": 2,
+        "col": 5,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760979208737
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 3,
+        "moveIndex": 7,
+        "ts": 1760979212784
+      }
+    ],
+    "startedAt": 1760979195370,
+    "endedAt": 1760979212786,
+    "durationSeconds": null,
+    "reason": "normal"
+  },
+  {
+    "gameId": "61e28026-5980-4186-9318-55abcb762576",
+    "players": [
+      "Gowtham",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 6,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760979299367
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760979299376
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760979300510
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760979300514
+      },
+      {
+        "player": 1,
+        "col": 6,
+        "row": 1,
+        "moveIndex": 5,
+        "ts": 1760979302000
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 6,
+        "ts": 1760979302009
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760979303752
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 8,
+        "ts": 1760979303758
+      }
+    ],
+    "startedAt": 1760979299367,
+    "endedAt": 1760979303760,
+    "durationSeconds": null,
+    "reason": "normal"
   }
 ]
