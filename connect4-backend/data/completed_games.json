@@ -4767,5 +4767,183 @@
     "endedAt": 1760974958365,
     "durationSeconds": null,
     "reason": "normal"
+  },
+  {
+    "gameId": "d9110a14-0fba-46a2-9233-ca81384e1b4e",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 2,
+    "winnerName": "BOT",
+    "result": "win",
+    "moves": [],
+    "startedAt": null,
+    "endedAt": null,
+    "durationSeconds": null,
+    "reason": "forfeit"
+  },
+  {
+    "gameId": "1aa454da-060d-47bd-a185-0f6b2f1168db",
+    "players": [
+      "Varshini Mamidala",
+      "BOT"
+    ],
+    "winner": 1,
+    "winnerName": "Varshini Mamidala",
+    "result": "win",
+    "moves": [
+      {
+        "player": 1,
+        "col": 5,
+        "row": 0,
+        "moveIndex": 1,
+        "ts": 1760975785837
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 0,
+        "moveIndex": 2,
+        "ts": 1760975785841
+      },
+      {
+        "player": 1,
+        "col": 4,
+        "row": 0,
+        "moveIndex": 3,
+        "ts": 1760975790968
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 1,
+        "moveIndex": 4,
+        "ts": 1760975790972
+      },
+      {
+        "player": 1,
+        "col": 3,
+        "row": 2,
+        "moveIndex": 5,
+        "ts": 1760975794897
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 3,
+        "moveIndex": 6,
+        "ts": 1760975794902
+      },
+      {
+        "player": 1,
+        "col": 4,
+        "row": 1,
+        "moveIndex": 7,
+        "ts": 1760975796828
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 4,
+        "moveIndex": 8,
+        "ts": 1760975796832
+      },
+      {
+        "player": 1,
+        "col": 4,
+        "row": 2,
+        "moveIndex": 9,
+        "ts": 1760975796834
+      },
+      {
+        "player": 2,
+        "col": 4,
+        "row": 3,
+        "moveIndex": 10,
+        "ts": 1760975796839
+      },
+      {
+        "player": 1,
+        "col": 4,
+        "row": 4,
+        "moveIndex": 11,
+        "ts": 1760975798829
+      },
+      {
+        "player": 2,
+        "col": 3,
+        "row": 5,
+        "moveIndex": 12,
+        "ts": 1760975798830
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 1,
+        "moveIndex": 13,
+        "ts": 1760975800598
+      },
+      {
+        "player": 2,
+        "col": 2,
+        "row": 0,
+        "moveIndex": 14,
+        "ts": 1760975800603
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 2,
+        "moveIndex": 15,
+        "ts": 1760975800606
+      },
+      {
+        "player": 2,
+        "col": 5,
+        "row": 3,
+        "moveIndex": 16,
+        "ts": 1760975800609
+      },
+      {
+        "player": 1,
+        "col": 5,
+        "row": 4,
+        "moveIndex": 17,
+        "ts": 1760975803973
+      },
+      {
+        "player": 2,
+        "col": 0,
+        "row": 0,
+        "moveIndex": 18,
+        "ts": 1760975803976
+      },
+      {
+        "player": 1,
+        "col": 1,
+        "row": 0,
+        "moveIndex": 19,
+        "ts": 1760975806952
+      },
+      {
+        "player": 2,
+        "col": 2,
+        "row": 1,
+        "moveIndex": 20,
+        "ts": 1760975806954
+      },
+      {
+        "player": 1,
+        "col": 2,
+        "row": 2,
+        "moveIndex": 21,
+        "ts": 1760975809006
+      }
+    ],
+    "startedAt": 1760975785837,
+    "endedAt": 1760975809006,
+    "durationSeconds": null,
+    "reason": "normal"
   }
 ]
